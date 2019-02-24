@@ -60,14 +60,14 @@ There should be a section titled Results in which your results are presented.
 You may have other sections in your analysis, but Data Processing and Results are required.
 The analysis document must have at least one figure containing a plot.
 Your analysis must have no more than three figures. Figures may have multiple plots in them (i.e. panel plots), but there cannot be more than three figures total.
-You must show all your code for the work in your analysis document. This may make the document a bit verbose, but that is okay. In general, you should ensure that \color{red}{\verb|echo = TRUE|}echo=TRUE for every code chunk (this is the default setting in knitr).
+You must show all your code for the work in your analysis document. This may make the document a bit verbose, but that is okay. In general, you should ensure that for every code chunk (this is the default setting in knitr).
 
 ## Publishing Your Analysis
 For this assignment you will need to publish your analysis on RPubs.com. If you do not already have an account, then you will have to create a new account. After you have completed writing your analysis in RStudio, you can publish it to RPubs by doing the following:
 
-In RStudio, make sure your R Markdown document (\color{red}{\verb|.Rmd|}.Rmd) document is loaded in the editor
-Click the \color{red}{\verb|Knit HTML|}KnitHTML button in the doc toolbar to preview your document.
-In the preview window, click the \color{red}{\verb|Publish|}Publish button.
+In RStudio, make sure your R Markdown document is loaded in the editor
+Click the KnitHTML button in the doc toolbar to preview your document.
+In the preview window, click the Publish button.
 Once your document is published to RPubs, you should get a unique URL to that document. Make a note of this URL as you will need it to submit your assignment.
 
 NOTE: If you are having trouble connecting with RPubs due to proxy-related or other issues, you can upload your final analysis document file as a PDF to Coursera instead.
